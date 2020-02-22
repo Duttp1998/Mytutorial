@@ -14,8 +14,11 @@ For the code example of Polymorphism, I used a basic formula for addition in whi
 
 **Sources:** 
 “Python Object Oriented Programming.” Programiz, www.programiz.com/python-programming/object-oriented-programming.
+
 “Encapsulation in Python.” GeeksforGeeks, 18 Oct. 2019, www.geeksforgeeks.org/encapsulation-in-python/.
+
 JanssenThorben, Thorben. “OOP Concept for Beginners: What Is Abstraction?” Stackify, 30 Apr. 2019, stackify.com/oop-concept-abstraction/.
+
 Anshudeep. “Polymorphism in Python.” Polymorphism in Python, 1 Jan. 1970, netjs.blogspot.com/2019/06/polymorphism-in-python.html.
 
 
